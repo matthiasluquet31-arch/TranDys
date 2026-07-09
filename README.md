@@ -1,2 +1,2 @@
 # TranDys
-TransDys est un outil d'aide a la lecture pour les personnes dyslexiques, il permet pour l'instant de modifier les documents word en y ajoutant une police de caractere adaptée, une taille augmentée, un espacement entre les lettres, les mots, et les paragraphes 
+TransDys est un outil d'aide à la lecture pour les personnes dyslexiques. Il permet d'adapter des documents Word en appliquant une police de caractères conçue pour la dyslexie, une taille de texte augmentée, ainsi qu'un espacement optimisé entre les lettres, les mots et les paragraphes.
