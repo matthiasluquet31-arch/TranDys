@@ -1,5 +1,4 @@
 # TranDys
-# TransDys
 
 **TransDys** est un outil d'aide à la lecture destiné aux personnes dyslexiques. Il permet d'adapter automatiquement des documents Word afin de les rendre plus accessibles, en s'appuyant sur des ajustements de mise en forme reconnus pour faciliter la lecture chez les personnes dyslexiques.
 
@@ -39,12 +38,9 @@ TransDys s'inscrit dans un écosystème plus large, encore en développement :
 - [ ] Support des fichiers PDF
 - [ ] Aperçu du document avant/après conversion
 - [ ] Application de filtres de lecture personnalisés
-- [ ] Intégration IA (TransIA) pour des adaptations contextuelles plus poussées, incluant la mise en évidence automatique des informations clés
+- [ ] Intégration IA pour des adaptations contextuelles plus poussées, incluant la mise en évidence automatique des informations clés
 
 ## Contribuer
 
 Ce projet est en développement actif. Les retours, suggestions et contributions sont les bienvenus — n'hésitez pas à ouvrir une issue ou une pull request.
 
-## Licence
-
-*(à préciser selon ton choix — MIT, GPL, etc.)*
